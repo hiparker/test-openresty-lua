@@ -3,7 +3,7 @@
 
 ### 原理
 
-> <a href="https://www.huorong.cn/" target="_blank">Hash一致性闭环算法 - ( 适用于Redis扩容、Nginx多级缓存 等等 )</a>
+> <a href="https://www.arcinbj.com/archives/hashclosedloop" target="_blank">Hash一致性闭环算法 - ( 适用于Redis扩容、Nginx多级缓存 等等 )</a>
 
 ### Lua模拟脚本
 
